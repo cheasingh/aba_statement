@@ -15,7 +15,7 @@ python3 convert_xlsx.py aba_statement.xlsx
 - add `--saveto` to specified the location to save the converted file
 - add `--app` to specified what format you want to convert aba statement to.
 
-**noted**: the default app is **homebank** and converted statement will be saved to the application root installation folder as default.
+**noted**: the default app is [**homebank**](http://homebank.free.fr/en/) and converted statement will be saved to the application root installation folder as default.
 
 Example:
 
