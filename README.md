@@ -27,7 +27,7 @@ python3 convert_xlsx.py aba_statement.xlsx --app homebank --saveto "c:\users\voi
 
 if you are using windows, you can configured the application to run anywhere from command (cmd) or (terminal) by creating a batch command and directory that storing it to the system environment.
 
-add system environment: https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)
+add system environment: [learn.microsoft.com](<https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)>)
 
 example of batch code that point to python file
 
